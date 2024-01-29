@@ -1,4 +1,11 @@
 # IC---Problemas-de-Caminho-minimo
+
+Membros do projeto:
+  - Tiago Macedo -> Orientador
+  - João Vinicius -> Estudante
+  - Rodrigo -> Estudante
+
+
 Nesse projeto nós estudamos as estruturas e alguns métodos para resolver problemas de caminho minimo.
 
 Utilizamos a representação de um grafo na forma de dicionários em python
