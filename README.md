@@ -5,12 +5,7 @@
   - João Vinicius -> Estudante
   - Rodrigo -> Estudante
 
-**Objetivo Principal:**
-Nesse projeto nós estudamos as estruturas e alguns métodos para resolver problemas de caminho minimo.
-
-Utilizamos a representação de um grafo na forma de dicionários em python
-
-Para o estudo levamos em consideração alguns pontos a serem provados:
+**Objetivos:**
 
 1º queriamos utilizar dijkstra e medir seu tempo de execução.
 
@@ -21,6 +16,9 @@ Para o estudo levamos em consideração alguns pontos a serem provados:
   - Para essa parte utilizamos: remoção de outliers, média aritmética, regressão linerar e correlação.
   
 4º fora todos os testes também queremos aplicar nas próximas versões os algoritmos de Bellman-Ford e A*, e fazer suas comparações de tempo com dijkstra e verificar algumas possibilidades de aplicações.
+
+5º Ver até onde a busca exautiva roda no Colab.
+
 
 
 Resultados:
