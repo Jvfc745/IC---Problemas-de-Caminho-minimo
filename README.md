@@ -7,7 +7,7 @@
 
 **Objetivos:**
 
-1º queriamos utilizar dijkstra e medir seu tempo de execução.
+1º Queriamos utilizar dijkstra e medir seu tempo de execução.
 
 2º Queriamos comparar com os outros métodos de busca mais simples.
 
@@ -21,7 +21,7 @@
 
 
 
-Resultados:
+**Resultados:**
 
 Dijkstra x Heurística Gulosa -> Tempo:
 
