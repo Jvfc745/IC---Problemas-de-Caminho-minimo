@@ -11,6 +11,6 @@ Para o estudo levamos em consideração alguns pontos a serem provados:
 
 3º Após comparar vimos que a heurísitca gulosa era mais rapida, porém ela errava e ai começamos a utilizar métodos de probabilidade e estatística para verificar essa taxa de erro:
 
-  [-] Para essa parte utilizamos: remoção de outliers, média aritmética, regressão linerar e correlação.
+  - Para essa parte utilizamos: remoção de outliers, média aritmética, regressão linerar e correlação.
   
 4º fora todos os testes também queremos aplicar nas próximas versões os algoritmos de Bellman-Ford e A*, e fazer suas comparações de tempo com dijkstra e verificar algumas possibilidades de aplicações.
