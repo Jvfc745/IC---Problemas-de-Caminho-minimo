@@ -9,7 +9,7 @@
 
 1º Queriamos utilizar dijkstra e medir seu tempo de execução.
 
-2º Queriamos comparar com os outros métodos de busca mais simples.
+2º Queriamos comparar os métodos de busca mais simples com dijkstra.
 
 3º Após comparar vimos que a heurísitca gulosa era mais rapida, porém ela errava e ai começamos a utilizar métodos de probabilidade e estatística para verificar essa taxa de erro:
 
