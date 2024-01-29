@@ -14,3 +14,10 @@ Para o estudo levamos em consideração alguns pontos a serem provados:
   - Para essa parte utilizamos: remoção de outliers, média aritmética, regressão linerar e correlação.
   
 4º fora todos os testes também queremos aplicar nas próximas versões os algoritmos de Bellman-Ford e A*, e fazer suas comparações de tempo com dijkstra e verificar algumas possibilidades de aplicações.
+
+
+Resultados:
+
+Dijkstra x Heurística Gulosa -> Tempo:
+
+![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/2242050e-c63e-4d5b-a3e4-a4695222b37e)
