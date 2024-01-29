@@ -38,4 +38,5 @@ Encontramos pela regressão linear uma relação de número de grafos e queda na
 
 Correlação do numero de vértices com acetos:
 
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/332ef667-45d7-4ed0-9a59-72e5e7e0378c)
+![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/e4e1b0c1-9c1d-41be-8f82-51fdc35a6b5b)
+
