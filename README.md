@@ -1,47 +1,20 @@
-# IC---Problemas-de-Caminho-minimo
+# Problema do Caminho Mínimo
 
-**Membros do projeto:**
-  - Tiago Macedo -> Orientador
-  - João Vinicius -> Estudante
-  - Rodrigo -> Estudante
+O _Problema do Caminho Mínimo_ é um problema clássico da Teoria de Grafos.  De forma resumida, dados um grafo ponderado (ou seja, com pesos ou distâncias para cada aresta) e dois de seus vértices, o problema é encontrar o caminho nesse grafo que ligue os dois vértices dados e tenha o menor peso total (distância total) possível. Vários problemas podem ser modelados como um Problema de Caminho Mínimo, como por exemplo, encontrar o menor trajeto entre dois pontos de uma cidade, encontrar soluções para jogos, projetar linhas de transmissão e de comunicação.
 
-**Objetivos:**
-
-1º Queriamos utilizar dijkstra e medir seu tempo de execução.
-
-2º Queriamos comparar os métodos de busca mais simples com dijkstra.
-
-3º Após comparar vimos que a heurísitca gulosa era mais rapida, porém ela errava e ai começamos a utilizar métodos de probabilidade e estatística para verificar essa taxa de erro:
-
-  - Para essa parte utilizamos: remoção de outliers, média aritmética, regressão linerar e correlação.
-  
-4º fora todos os testes também queremos aplicar nas próximas versões os algoritmos de Bellman-Ford e A*, e fazer suas comparações de tempo com dijkstra e verificar algumas possibilidades de aplicações.
-
-5º Ver até onde a busca exautiva roda no Colab.
+Uma descrição mais detalhada, incluindo definições e exemplos dos conceitos necessários para entender esse problema, está contida nas notas [Joao, Rodrigo - Problema do Caminho Mínimo.pdf](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/blob/4eebbdba79f21bc0d4b9bb949cb663c7e6c9fe53/Joao%2C%20Rodrigo%20-%20Problema%20do%20caminho%20minimo.pdf).  O _notebook_ [Joao, Rodrigo - Problema do Caminho Minimo.ipynb](Joao,_Rodrigo_Problema_do_Caminho_Minimo.ipynb) contém implementações comentadas de alguns algoritmos usados para resolver esse problema: _Busca Exaustiva_, o _Algoritmo de Dijkstra_, e uma _heurística gulosa_.
 
 
+## Desenvolvimento do projeto
 
-**Resultados:**
+Esse projeto foi desenvolvido por [João Vinicius Colombini](https://github.com/Jvfc745) e [Rodrigo dos Santos](), durante o segundo semestre de 2023, como um projeto de _Iniciação Científica_ orientado pelo [Prof. Tiago Macedo](https://github.com/tiagormacedo) e parcialmente financiado pelo [PICME](https://picme.obmep.org.br).
 
-Dijkstra x Heurística Gulosa -> Tempo:
 
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/2242050e-c63e-4d5b-a3e4-a4695222b37e)
+## Licença
 
-Maximo de vértices em um grafo na busca exaustiva: (14 vértices utilizando RAM do Colab)
+Este projeto está licenciado sob uma licença [Creative Commons Attribution-NonCommercial-ShareAlike](https://raw.githubusercontent.com/RPvMM-2023-S1/Rain-and-flood-informed-vehicle-routing-problem/main/LICENCE ).
 
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/78adfcad-2bd5-4d8d-924c-3bd27bfe9793)
 
-Erro da heurística gulosa:
+### Bugs e solicitações de uso
 
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/ce13ffe5-a749-461b-bc8d-0010eb1a5b29)
-
-Dados adicionais:
-
-Encontramos pela regressão linear uma relação de número de grafos e queda na taxa de acerto da heurística gulosa:
-
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/37562ccb-9375-4931-a4b8-77c736c66ac0)
-
-Correlação do numero de vértices com acetos:
-
-![image](https://github.com/Jvfc745/IC---Problemas-de-Caminho-minimo/assets/102577378/e4e1b0c1-9c1d-41be-8f82-51fdc35a6b5b)
-
+Se você encontrar algum bug, tiver alguma ideia para melhorar alguma parte do nosso projeto, ou tiver alguma dúvida, sinta-se à vontade para entrar em contato conosco.  Nós agradecemos pelo seu interesse em nosso projeto e esperamos ouvir todas as suas sugestões!
