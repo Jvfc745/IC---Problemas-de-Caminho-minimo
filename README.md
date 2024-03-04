@@ -7,7 +7,7 @@ Uma descrição mais detalhada, incluindo definições e exemplos dos conceitos 
 
 ## Desenvolvimento do projeto
 
-Esse projeto foi desenvolvido por [João Vinicius Colombini](https://github.com/Jvfc745) e [Rodrigo dos Santos](), durante o segundo semestre de 2023, como um projeto de _Iniciação Científica_ orientado pelo [Prof. Tiago Macedo](https://github.com/tiagormacedo) e parcialmente financiado pelo [PICME](https://picme.obmep.org.br).
+Esse projeto foi desenvolvido por [João Vinicius Colombini](https://github.com/Jvfc745) e [Rodrigo dos Santos](https://github.com/Rodrigo5677), durante o segundo semestre de 2023, como um projeto de _Iniciação Científica_ orientado pelo [Prof. Tiago Macedo](https://github.com/tiagormacedo) e parcialmente financiado pelo [PICME](https://picme.obmep.org.br).
 
 
 ## Licença
